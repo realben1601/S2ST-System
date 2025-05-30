@@ -1,0 +1,1 @@
+A real time speech-to-speech translation system which utilizes Natural Language Processing Techniques, that is mainly comprised of Automatic Speech Recognition, Machine Translation and Text-to-Speech Synthesis.
